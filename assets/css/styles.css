@@ -1,0 +1,83 @@
+#name {
+	text-align: center;
+	font-size: 40px;
+	font-weight: 1000;
+	font-style: italic ;
+    text-decoration: underline;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#image {
+	text-align: center;
+}
+.image {
+	border: --p-action-primary-disabled;
+	border-style: dashed white;
+	border-width: 5px;
+	border-radius: 2000px;
+    background-color: black;
+    margin: 10px;
+}
+.education {
+    border: 5px black double;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: rgb(181, 219, 219);
+    margin-right: 10px;
+    
+
+}
+.skills{
+    border: 5px black double;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: rgb(191, 230, 230);
+    margin-right: 10px;
+}
+.interests{
+    border: 5px black double;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: rgb(186, 224, 224);
+}
+.extracular{
+    
+    border: 5px black double;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: rgb(186, 224, 224);
+    margin-right: 10px;
+}
+.hobbies{
+    border: 5px black double;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: rgb(186, 224, 224);
+}
+.about {
+	display: flex;
+    -ms-flex-align: center;
+    padding-inline: 5px;
+    justify-content: center;
+    margin-bottom: 25px;
+    background-color: black;
+}
+.activity{
+    display: flex;
+    justify-content: center;
+    -ms-flex-align: center;
+    background-color: black;
+}
+.contact{
+    text-align: center;
+    padding: 20px;
+}
+.image1{
+    margin-right: 30px;
+}
+.logo{
+    display: flex;
+    -ms-flex-align: center;
+    padding-inline: 5px;
+    justify-content: center;
+}
